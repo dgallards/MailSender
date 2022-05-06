@@ -15,7 +15,7 @@ HTML FILE FORMAT:
 ...
 <body>
 
-<h1> this value : $1 will be replaced for the 1_argument in the .csv file, $2 this for the argument_2 and so on... </h1>
+<p> this value : $1 will be replaced for the 1_argument in the .csv file, $2 this for the argument_2 and so on... </p>
   
   
 </body>
