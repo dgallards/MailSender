@@ -7,6 +7,7 @@ Configuring a .csv file this way, you can send any number of mails to different 
 CSV FILE FORMAT:
 
 [account_to_send_the_email], 1_argument, 2_argument,...,n_argument
+
 [account_2_to_send_the_email], 1_DiffentArgument, 2_DiffenteArgument,...,n_argument
 
 
